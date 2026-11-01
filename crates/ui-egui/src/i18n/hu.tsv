@@ -404,3 +404,7 @@ texturecraft	Mesh maps	Hálótérképek
 texturecraft	Bake mesh maps and use smart materials.	Süss ki hálótérképeket, és használj intelligens anyagokat.
 texturecraft	Paint textures on 3D models.	Fess textúrákat 3D modellekre.
 	Hide community apps	Közösségi alkalmazások elrejtése
+texturecraft	The TextureCraft workspace	A TextureCraft munkaterülete
+texturecraft	Baking mesh maps	Hálótérképek kisütése
+texturecraft	Exporting textures	Textúrák exportálása
+texturecraft	Rendering a material	Anyag renderelése

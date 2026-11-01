@@ -401,3 +401,7 @@ texturecraft	Mesh maps	Cartes de maillage
 texturecraft	Bake mesh maps and use smart materials.	Calculez des cartes de maillage et utilisez des matériaux intelligents.
 texturecraft	Paint textures on 3D models.	Peignez des textures sur des modèles 3D.
 	Hide community apps	Masquer les applications communautaires
+texturecraft	The TextureCraft workspace	L’espace de travail TextureCraft
+texturecraft	Baking mesh maps	Calcul des cartes de maillage
+texturecraft	Exporting textures	Exportation des textures
+texturecraft	Rendering a material	Rendu d’un matériau

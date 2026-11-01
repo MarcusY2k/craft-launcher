@@ -403,3 +403,7 @@ texturecraft	Mesh maps	Mesh-Maps
 texturecraft	Bake mesh maps and use smart materials.	Mesh-Maps backen und intelligente Materialien verwenden.
 texturecraft	Paint textures on 3D models.	Texturen auf 3D-Modelle malen.
 	Hide community apps	Community-Apps ausblenden
+texturecraft	The TextureCraft workspace	Die TextureCraft-Arbeitsfläche
+texturecraft	Baking mesh maps	Mesh-Maps backen
+texturecraft	Exporting textures	Texturen exportieren
+texturecraft	Rendering a material	Ein Material rendern

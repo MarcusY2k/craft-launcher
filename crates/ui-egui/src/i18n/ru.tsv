@@ -399,3 +399,7 @@ texturecraft	Mesh maps	Карты сетки
 texturecraft	Bake mesh maps and use smart materials.	Запекайте карты сетки и используйте умные материалы.
 texturecraft	Paint textures on 3D models.	Рисуйте текстуры на 3D-моделях.
 	Hide community apps	Скрыть приложения сообщества
+texturecraft	The TextureCraft workspace	Рабочее пространство TextureCraft
+texturecraft	Baking mesh maps	Запекание карт сетки
+texturecraft	Exporting textures	Экспорт текстур
+texturecraft	Rendering a material	Рендеринг материала
